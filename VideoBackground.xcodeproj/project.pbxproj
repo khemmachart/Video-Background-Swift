@@ -10,22 +10,22 @@
 		F91671441E14116B004B99C2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F916713A1E14116B004B99C2 /* AppDelegate.swift */; };
 		F91671451E14116B004B99C2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F916713B1E14116B004B99C2 /* ViewController.swift */; };
 		F91671461E14116B004B99C2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F916713E1E14116B004B99C2 /* Assets.xcassets */; };
-		F91671471E14116B004B99C2 /* VideoBackground.gif in Resources */ = {isa = PBXBuildFile; fileRef = F916713F1E14116B004B99C2 /* VideoBackground.gif */; };
 		F91671481E14116B004B99C2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F91671411E14116B004B99C2 /* LaunchScreen.storyboard */; };
 		F91671491E14116B004B99C2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F91671421E14116B004B99C2 /* Main.storyboard */; };
 		F916714A1E14116B004B99C2 /* WebViewContent.html in Resources */ = {isa = PBXBuildFile; fileRef = F91671431E14116B004B99C2 /* WebViewContent.html */; };
+		F9415B331E14C0FA009F9438 /* VideoBackground.gif in Resources */ = {isa = PBXBuildFile; fileRef = F9415B321E14C0FA009F9438 /* VideoBackground.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		F916713A1E14116B004B99C2 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F916713B1E14116B004B99C2 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		F916713E1E14116B004B99C2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		F916713F1E14116B004B99C2 /* VideoBackground.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = VideoBackground.gif; sourceTree = "<group>"; };
 		F91671411E14116B004B99C2 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F91671421E14116B004B99C2 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		F91671431E14116B004B99C2 /* WebViewContent.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = WebViewContent.html; sourceTree = "<group>"; };
 		F939B1EB1E140624007BC9CE /* VideoBackground.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VideoBackground.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F939B1FA1E140624007BC9CE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F9415B321E14C0FA009F9438 /* VideoBackground.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = VideoBackground.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +62,7 @@
 			isa = PBXGroup;
 			children = (
 				F916713E1E14116B004B99C2 /* Assets.xcassets */,
-				F916713F1E14116B004B99C2 /* VideoBackground.gif */,
+				F9415B321E14C0FA009F9438 /* VideoBackground.gif */,
 			);
 			path = Images;
 			sourceTree = "<group>";
@@ -163,9 +163,9 @@
 			files = (
 				F916714A1E14116B004B99C2 /* WebViewContent.html in Resources */,
 				F91671481E14116B004B99C2 /* LaunchScreen.storyboard in Resources */,
-				F91671471E14116B004B99C2 /* VideoBackground.gif in Resources */,
 				F91671461E14116B004B99C2 /* Assets.xcassets in Resources */,
 				F91671491E14116B004B99C2 /* Main.storyboard in Resources */,
+				F9415B331E14C0FA009F9438 /* VideoBackground.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
